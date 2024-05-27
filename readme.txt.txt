@@ -8,5 +8,5 @@ company = srit
 
 this modified 2nd time
 
-create an avatar for user
+create an avavatr for user
 
